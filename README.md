@@ -1,3 +1,5 @@
+# BERiT
+
 This model is a fine-tuned version of [roberta-base](https://huggingface.co/roberta-base) on the [Tanakh dataset](https://huggingface.co/datasets/gngpostalsrvc/Tanakh).
 It achieves the following results on the evaluation set:
 - Loss: 3.9931
