@@ -33,3 +33,11 @@ The following hyperparameters were used during training:
 - optimizer: Adam with betas=(0.9,0.999) and epsilon=1e-08
 - lr_scheduler_type: linear
 - num_epochs: 150
+
+### Framework versions
+
+- Transformers 4.24.7
+- Pytorch 1.12.1+cu113
+- Datasets 2.11.0
+- Tokenizers 0.13.3
+
